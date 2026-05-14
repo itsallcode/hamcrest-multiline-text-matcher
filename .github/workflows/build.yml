@@ -61,7 +61,7 @@ jobs:
     - name: Ossindex
       if: ${{ env.OSSINDEX_USERNAME != null && env.OSSINDEX_TOKEN != null }}
       run: |
-        mvn --errors --batch-mode test-compile \
+        mvn --errors --batch-mode test-compile -Djava.version=17 \
             org.sonatype.ossindex.maven:ossindex-maven-plugin:audit \
             org.sonatype.ossindex.maven:ossindex-maven-plugin:audit-aggregate
       env:
