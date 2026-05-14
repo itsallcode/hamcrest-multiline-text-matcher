@@ -8,4 +8,4 @@ In version 2.0.4 we updated dependencies and plugins and re-enables the OssIndex
 
 ## Changes
 
-* #: Updated dependencies
+* #15: Updated dependencies
