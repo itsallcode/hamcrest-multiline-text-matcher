@@ -28,6 +28,8 @@ This matcher provides the following features:
 * Marks where in the text a mismatch is found
 * Makes invisible characters visible (CR, LF, TAB)
 
+For details see the [JavaDoc](https://blog.itsallcode.org/hamcrest-multiline-text-matcher).
+
 ## Information for Developers
 
 * [Developer Guide](doc/developer_guide/developer_guide.md)

@@ -1,4 +1,4 @@
-# hamcrest-multiline-text-matcher 2.0.4, released 2026-05-14
+# hamcrest-multiline-text-matcher 2.0.4, released 2026-05-15
 
 Codename: Update dependencies on top of 2.0.3
 
